@@ -18,7 +18,7 @@
 - 🛢 &nbsp;  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src ="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 - ⚙️ &nbsp;  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-- 🔧 &nbsp;  <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+- 🔧 &nbsp;  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 - 🎨 &nbsp;  <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> 
 
 
@@ -34,8 +34,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-!--<a href=""><img alt="Website" src="https://img.shields.io/badge/Website-www.syedammarilyas.com-blue?style=flat-square&logo=google-chrome"></a>-->
-<a href="https://www.linkedin.com/in/jesús-luna-domínguez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-syedammarilyas-blue?style=flat-square&logo=linkedin"></a>
+<a href=""><img alt="Website" src="https://img.shields.io/badge/Website-www.syedammarilyas.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/jesús-luna-domínguez/"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://github.com/JesusLuna27"><img alt="GitHub" src="https://img.shields.io/badge/Instagram-JesusLuna27-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:lunajesus.278@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lunajesus.278@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
