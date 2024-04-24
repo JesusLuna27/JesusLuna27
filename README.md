@@ -34,8 +34,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href=""><img alt="Website" src="https://img.shields.io/badge/Website-www.syedammarilyas.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jesús-luna-domínguez/"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://github.com/JesusLuna27"><img alt="GitHub" src="https://img.shields.io/badge/Instagram-JesusLuna27-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:lunajesus.278@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lunajesus.278@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href=""><img alt="Website" src="https://img.shields.io/badge/Website-www.jesuslunadominguez.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/jesús-luna-domínguez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://github.com/JesusLuna27"><img alt="GitHub" src="https://img.shields.io/github/followers/JesusLuna27.svg?style=social&label=Follow&maxAge=2592000"></a>
+<a href="mailto:lunajesus.278@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
